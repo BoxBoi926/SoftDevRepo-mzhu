@@ -1,0 +1,13 @@
+Justin Zou, Mark Zhu
+
+Q0: It is like Java but it does not state the varible type nor does it have the new keyword.
+
+Q1: I think it might mean the symbol that indicates a folder.
+
+Q2: It should print to the terminal.
+
+Q3: I am not sure but it might print "__main__".
+
+Q3: Based on my knowledge from java, I do not think that this has anywhere to print to since it is just there to return a string.
+
+Q4: It looks like an object is calling a method from its own class.
