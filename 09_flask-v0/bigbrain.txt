@@ -1,13 +1,23 @@
-Justin Zou, Mark Zhu
+Team MJZ: Mark Zhu, Justin Zou
+Duckies: Bob the third Junior, Piggy
+Software Development
+K09: First Flask App Q/C/C 
+2021-10-03
 
-Q0: It is like Java but it does not state the varible type nor does it have the new keyword.
+Q0: This seems similar to declaring an object in java without the new modifier next to it. 
+It acts like a constructor.
 
-Q1: I think it might mean the symbol that indicates a folder.
+Q1: Perhaps it could be the division sign or the sign used to divide folders.
 
-Q2: It should print to the terminal.
+Q2: This will print to the terminal. It should print the object's id.
+New notes: It seems to have printed the link to the web broswer.
 
-Q3: I am not sure but it might print "__main__".
+Q3: I don't think it will appear anywhere because the return statement doesn't necessarily print something out.
+New notes: "No hablo queso" prints out on the web browser that you get linked to from the terminal
 
-Q3: Based on my knowledge from java, I do not think that this has anywhere to print to since it is just there to return a string.
+Q4: Once again, it looks like an object using a function within its class.
 
-Q4: It looks like an object is calling a method from its own class.
+More notes:
+The new browser that we get sent to only has the words "No hablo queso!". It seems that everything else in the app.py file was used to just print out this phrase.
+The link to the web browser is always 127.0.0.1:5000
+The broswer link didn't work when ran on my terminal when sshing into the lab computers
