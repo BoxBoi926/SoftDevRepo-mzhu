@@ -9,15 +9,15 @@
 
 
 //access canvas and buttons via DOM
-var c = document.getElementById("slate")// GET CANVAS
-var dotButton = document.getElementById("buttonCircle") // GET DOT BUTTON
-var stopButton = document.getElementById("buttonStop")// GET STOP BUTTON
+var c = document.getElementById("slate");// GET CANVAS
+var dotButton = document.getElementById("buttonCircle"); // GET DOT BUTTON
+var stopButton = document.getElementById("buttonStop");// GET STOP BUTTON
 
 //prepare to interact with canvas in 2D
-var ctx = c.getContext("2d")// YOUR CODE HERE
+var ctx = c.getContext("2d");// YOUR CODE HERE
 
 //set fill color to team color
-ctx.fillStyle = // YOUR CODE HERE
+ctx.fillStyle = 'green';// YOUR CODE HERE
 
 var requestID;  //init global var for use with animation frames
 
