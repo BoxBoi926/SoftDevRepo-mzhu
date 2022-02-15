@@ -52,7 +52,9 @@ var drawDot = () => {
     window.requestAnimationFrame()
 
    */
-   while growing
+   while (growing){
+
+   }
 };
 
 
